@@ -1,4 +1,4 @@
-# Madina Lızade - C# Developer & Mentor  
+# Madina Alızade - C# Developer & Mentor  
 💻 **C# | .NET | ASP.NET | SQL | Entity Framework**  
 
 Salam! Mən Madina, C# və .NET ekosistemi üzrə proqramçı və mentoram. Proqramlaşdırmanı və başqalarına öyrətməyi sevirəm. Burada layihələrimi, kod nümunələrimi və faydalı resursları tapa bilərsiniz.  
